@@ -12,16 +12,16 @@ VALUES ("manager", 100000, 1),
        
        INSERT INTO employee(first_name, last_name, role_id, manager_id)
 	VALUES('Zoey', 'Koger', 1, NULL),
-		('Stormy', 'Rappaport', 3, NULL),
-        ('Jennifer', 'Knox', 5, NULL),
-        ('Larissa', 'Clark', 7, NULL);
+		('Stormy', 'Rappaport', 2, NULL),
+        ('Jennifer', 'Knox', 3, NULL),
+        ('Larissa', 'Clark', 4, NULL);
 
 
 INSERT INTO employee(first_name, last_name, role_id, manager_id)
-	VALUES('Jody', 'Schumacher', 2, 1),
-	('Vicky', 'Escruceria', 4, 2),
-    ('Ginger', 'Caldwell', 6, 3),
-    ('Kimberly', 'Putman', 8, 4);
+	VALUES('Jody', 'Schumacher', 1, 1),
+	('Vicky', 'Escruceria', 2, 1),
+    ('Ginger', 'Caldwell', 3, 3),
+    ('Kimberly', 'Putman', 4, 3);
 
 
 
