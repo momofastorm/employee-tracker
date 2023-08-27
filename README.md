@@ -38,6 +38,8 @@ This option allows you to update an employee's role. You'll be prompted to selec
 Exit
 Selecting this option will exit the application.
 
+Walkthrough Video:  https://watch.screencastify.com/v/PHfqoXsfx899wyDUT1gk
+
 Contribution Please contact me with any questions.
 
 Questions email- marcyrappaport.blessed@gmail.com
