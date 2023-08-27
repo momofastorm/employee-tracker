@@ -46,4 +46,4 @@ github- momofastorm
 
 Test N/A
 
-License This project is licensed under the MIT license.
+![image](https://github.com/momofastorm/employee-tracker/assets/127702972/2f0a352c-576a-488f-b182-8a715670852f)
